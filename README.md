@@ -52,18 +52,18 @@ The main graph operations have a time complexity of \(O(V+E)\), where V represen
 
 6. System Features
 
-1. Add Course
-2. Add Prerequisite
-3. Remove Course
-4. Display Course Prerequisites
-5. Display Dependent Courses
-6. Display All Courses
-7. Display Complete Graph
-8. Search Course
-9. Display Course Completion Order
-10. Display System Statistics
-11. Load Sample Data
-0. Exit
+.1. Add Course
+.2. Add Prerequisite
+.3. Remove Course
+.4. Display Course Prerequisites
+.5. Display Dependent Courses
+.6. Display All Courses
+.7. Display Complete Graph
+.8. Search Course
+.9. Display Course Completion Order
+.10. Display System Statistics
+.11. Load Sample Data
+.0. Exit
 
 The system validates inputs, prevents duplicate relationships and automatically saves changes.
 
